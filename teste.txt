@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git init //verificar projeto git
 
 git status //verificar alteração
@@ -13,3 +14,6 @@ git push origin master //subir
 git poll origin master //baixar
 
 git clone //clonar
+=======
+Arquivo de teste para o Git
+>>>>>>> cdf4d6760fe004f59938099ffe90d6bf74df3601
