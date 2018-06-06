@@ -1,0 +1,15 @@
+git init //verificar projeto git
+
+git status //verificar alteração
+
+git config --list
+
+git add "nome-do-arquivo" //adicionar repositório
+
+git commit -m "mensagem" //empacotar
+
+git push origin master //subir
+
+git poll origin master //baixar
+
+git clone //clonar
